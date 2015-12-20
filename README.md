@@ -22,4 +22,4 @@ automatic configuration script openvpn on freebsd 9.x / 10.x with
 - Auto configure N clients = N ipadresses
 
 
-### 2015 maxN / amhost
+### 2015 maxN 
